@@ -1,0 +1,3 @@
+live
+Box001
+/dev/ttyUSB0,9600,N,8,n
